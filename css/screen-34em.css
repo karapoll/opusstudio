@@ -1,0 +1,31 @@
+#apropos{
+	float: none;
+	text-align: center;
+    margin: 1rem auto;
+}
+
+#contact{
+	float: none;
+	text-align: center;
+    margin: 1rem auto;
+}
+
+#logo{
+	float: none;
+	margin: 1rem auto;
+    width: 35%;
+}
+
+#social{
+	float: none;
+	margin: 2rem auto;
+}
+
+.opus{
+	display: none;
+}
+
+.mainContent{
+    margin: 2rem auto;
+    width: 80%;
+}

@@ -1,0 +1,68 @@
+.trame{
+  opacity: 1;
+  animation: opacity10 2s forwards;
+  -webkit-animation: opacity10 2s forwards;
+}
+
+#logo{
+  opacity: 0;
+  animation: 
+  translate 2s 2s forwards,
+  opacity01 2s 2s forwards;
+
+  -webkit-animation: 
+  translate 2s 2s forwards,
+  opacity01 2s 2s forwards;
+}
+
+#apropos{
+  opacity: 0;
+  animation: opacity01 2s 3s forwards;
+  -webkit-animation: opacity01 2s 3s forwards;
+}
+
+#contact{
+  opacity: 0;
+  animation: opacity01 2s 3s forwards;
+  -webkit-animation: opacity01 2s 3s forwards;
+}
+
+#social{
+  opacity: 0;
+  animation: opacity01 2s 3s forwards;
+  -webkit-animation: opacity01 2s 3s forwards;
+}
+
+.mainContent{
+  opacity: 0;
+  animation: opacity01 2s 4s forwards;
+  -webkit-animation: opacity01 2s 4s forwards;
+}
+
+.O{
+  top: 6%;
+  left: 49.4%;
+  animation: translateO 1s 2s forwards;
+  -webkit-animation: translateO 1s 2s forwards;
+}
+
+.P{
+  top: 47%;
+  right: 5%;
+  animation: translateP 1s 2s forwards;
+  -webkit-animation: translateP 1s 2s forwards;
+}
+
+.U{
+  bottom: 5.5rem;
+  left: 49.4%;
+  animation: translateU 1s 2s forwards;
+  -webkit-animation: translateU 1s 2s forwards;
+}
+
+.S{
+  top: 47%;
+  left: 5%;
+  animation: translateS 1s 2s forwards;
+  -webkit-animation: translateS 1s 2s forwards;
+}

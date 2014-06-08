@@ -1,0 +1,30 @@
+#apropos{
+    float: left;
+    width: 20%;
+}
+
+#contact{
+    float: right;
+    width: 20%;
+    text-align: right;
+}
+
+#logo{
+    float: left;
+    margin: 1rem 20%;
+    padding-top: 2rem;
+    width: 20%;
+}
+
+#social{
+    float: right;
+    overflow: hidden;
+    width: 4.5rem;
+    margin-top: 0.5rem;
+}
+
+#socialMain{
+    margin: 2rem auto;
+    width: 13%;
+}
+

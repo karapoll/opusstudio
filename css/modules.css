@@ -1,0 +1,202 @@
+.container{
+    width: 62.5rem;
+    margin: 0 auto;
+    position: relative;
+    padding-bottom: 4rem;
+}
+
+.social{
+    float: left;
+    padding-top: 0.9rem;
+    padding-left: 0.7rem;
+}
+
+.socialFacebook{
+    display: block;
+    background: url(../img/logos/LOGO_RVB-13.png) no-repeat;
+    background-size: 2rem 100%;
+    width: 33%;
+    height: 2rem;
+}
+
+.socialTwitter{
+    display: block;
+    background: url(../img/logos/LOGO_RVB-13.png) no-repeat;
+    background-size: 2rem 100%;
+    width: 33%;
+    height: 2rem;
+}
+
+.opus{
+    position: absolute;
+    z-index: 1;
+    font-weight: bold;
+}
+
+.O{
+    top: 2%;
+    left: 49.4%;
+}
+
+.P{
+    top: 47%;
+    right: 0%;
+}
+
+.U{
+    bottom: 0rem;
+    left: 49.4%;
+}
+
+.S{
+    top: 47%;
+    left: 0%;
+}
+
+.trame{
+    position: absolute;
+    top: 1rem;
+    left: 0;
+    opacity: 0;
+}
+
+.mainContent{
+    margin: 8rem auto;
+    padding: 2rem 0 2rem 0;
+    width: 60%;
+    overflow: hidden;
+}
+
+.vignettes{
+    float: left;
+    width: 15%;
+    margin: 1.5rem 5%;
+}
+
+.adresse{
+    text-align: center;
+    margin-top: 10rem;
+}
+
+.apropos{
+    text-align: center;
+}
+
+.apropos>ol{
+    list-style-type: decimal;
+    list-style-position: inside;
+}
+
+.logoClient{
+    width: 15%;
+    margin: 2rem auto;
+}
+
+.project{
+    margin-bottom: 2rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

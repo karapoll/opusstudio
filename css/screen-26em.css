@@ -1,0 +1,21 @@
+#apropos{
+	font-size: 0.75rem;
+}
+
+#contact{
+	font-size: 0.75rem;
+}
+
+#logo{
+    width: 45%;
+}
+
+.mainContent{
+    margin: 2rem auto;
+    width: 100%;
+}
+
+.vignettes{
+    width: 30%;
+    margin: 1.5rem 10%;
+}
